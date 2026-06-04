@@ -1,3 +1,5 @@
+This is my project from the conclusion work of my IT undergraduation.
+
 # Educational Data Mining project on ENEM database 2019.
 
 This is my project from the conclusion work of my IT undergraduation.
